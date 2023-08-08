@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emuguy1
 - 👀 I’m interested in Web and Android/Kotlin Application Development
-- 🌱 I’m currently studying Computer Science on bachelors degree
-- 💞️ I’m looking to collaborate on Applikation Projekt or Frontend developmentkit 
+- 🌱 I’m currently studying Computer Science on master degree
+- 💞️ I’m looking to collaborate on Applikation Projekt or Frontend development
 - 📫 How to reach me: Write me a E-Mail or reach out to me on Twitter @emuguy1
 
 <!---
